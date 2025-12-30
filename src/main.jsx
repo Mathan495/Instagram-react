@@ -5,22 +5,16 @@ import { createBrowserRouter, RouterProvider } from 'react-router-dom'
 import Viewstry from './viewstry.jsx'
 import Profile from './profile.jsx'
 
-const router = createBrowserRouter(
-  [{
-    path: '/', 
-    element: <App/> 
-  },
-  {
-    path: '/stry/:id/:tot', 
-    element: <Viewstry/> 
-  },
-  {
-    path : '/profile',
-    element: <Profile /> 
-  }
+const routes = [
+  { path: '/', element: <App/> },
+  { path: '/stry/:id/:tot', element: <Viewstry/> },
+  { path: '/profile', element: <Profile/> }
 ]
-) 
+
+const router = createBrowserRouter(routes, {
+  basename: import.meta.env.BASE_URL
+})
 
 createRoot(document.getElementById('root')).render(
-  <RouterProvider router={router}/> 
+  <RouterProvider router={router} />
 )
