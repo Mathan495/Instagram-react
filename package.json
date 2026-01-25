@@ -14,7 +14,7 @@
   "dev": "vite",
   
     
-  "build": "vite build && npm run db",
+  "build": "vite build ",
   
     
   "lint": "eslint .",
