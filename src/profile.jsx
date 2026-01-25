@@ -14,6 +14,9 @@ function Profile(){
 
     useEffect(() => {
         axios.get('http://localhost:3000/Profile')
+        .then(data => console.log(data.data)) 
+        
+        axios.get('http://localhost:3000/Profile')
         .then(data => setProfile(data.data)) 
         .catch(err => console.log(err))
 

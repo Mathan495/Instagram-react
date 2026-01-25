@@ -1,5 +1,5 @@
 {
-  "homepage": "https://Mathan495.github.io/Instagram-react",
+  
   "name": "instagram",
   "private": true,
   "version": "0.0.0",
@@ -8,6 +8,7 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
+    "db":"cd db && json-server --watch db.json --port 3000",
     "preview": "vite preview",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"

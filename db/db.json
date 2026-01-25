@@ -140,7 +140,7 @@
         "userProfilePic": "src/assets/kashmira.jpeg"
       },
       "postImage": "src/assets/kashmira-stills.jpg",
-      "caption": "Lovable pic😘❤", 
+      "caption": "Lovable pic😘❤",
       "likes": "800k",
       "comments": [
         {
@@ -307,10 +307,6 @@
   ],
   "followers": [
     {
-      "id": "101",
-      "username": "mathan_sk"
-    },
-    {
       "id": "105",
       "username": "Kashmira"
     },
@@ -325,6 +321,10 @@
     {
       "id": "102",
       "username": "sivakarthikeyan"
+    },
+    {
+      "id": "101",
+      "username": "silambarasan"
     }
   ]
 }
