@@ -5,9 +5,9 @@
       "user": {
         "id": 101,
         "username": "actor_vijay",
-        "userProfilePic": "src/assets/vijay.jpeg"
+        "userProfilePic": "assets/vijay.jpeg"
       },
-      "postImage": "src/assets/vijay1.jpg",
+      "postImage": "assets/vijay1.jpg",
       "caption": "Hii Nanba & Nanbi's ❤",
       "likes": "100M",
       "comments": [
@@ -27,9 +27,9 @@
       "user": {
         "id": 102,
         "username": "actor_suriya",
-        "userProfilePic": "src/assets/suriya2.jpg"
+        "userProfilePic": "assets/suriya2.jpg"
       },
-      "postImage": "src/assets/suriya.jpg",
+      "postImage": "assets/suriya.jpg",
       "caption": "Raju bhaii❗💥...",
       "likes": "10M",
       "comments": [
@@ -49,9 +49,9 @@
       "user": {
         "id": 103,
         "username": "ajith_kumar",
-        "userProfilePic": "src/assets/akstill.jpg"
+        "userProfilePic": "assets/akstill.jpg"
       },
-      "postImage": "src/assets/AKdp.jpg",
+      "postImage": "assets/AKdp.jpg",
       "caption": "Stylish Look😎",
       "likes": "50M",
       "comments": [
@@ -71,9 +71,9 @@
       "user": {
         "id": 104,
         "username": "dhanush",
-        "userProfilePic": "src/assets/dhanush.webp"
+        "userProfilePic": "assets/dhanush.webp"
       },
-      "postImage": "src/assets/dhanush.webp",
+      "postImage": "assets/dhanush.webp",
       "caption": "Maari's Swag😎💥",
       "likes": "1M",
       "comments": [
@@ -93,9 +93,9 @@
       "user": {
         "id": 105,
         "username": "anirudh",
-        "userProfilePic": "src/assets/anirudh.jpeg"
+        "userProfilePic": "assets/anirudh.jpeg"
       },
-      "postImage": "src/assets/anirudh.jpeg",
+      "postImage": "assets/anirudh.jpeg",
       "caption": "Arangam athirattume🎤💥",
       "likes": "2M",
       "comments": [
@@ -115,9 +115,9 @@
       "user": {
         "id": 107,
         "username": "Samantha",
-        "userProfilePic": "src/assets/sam.jpg"
+        "userProfilePic": "assets/sam.jpg"
       },
-      "postImage": "src/assets/sam.jpg",
+      "postImage": "assets/sam.jpg",
       "caption": "Nice pic😍❤",
       "likes": "55M",
       "comments": [
@@ -137,9 +137,9 @@
       "user": {
         "id": 107,
         "username": "Kashmira",
-        "userProfilePic": "src/assets/kashmira.jpeg"
+        "userProfilePic": "assets/kashmira.jpeg"
       },
-      "postImage": "src/assets/kashmira-stills.jpg",
+      "postImage": "assets/kashmira-stills.jpg",
       "caption": "Lovable pic😘❤",
       "likes": "800k",
       "comments": [
@@ -159,9 +159,9 @@
       "user": {
         "id": 106,
         "username": "rajini",
-        "userProfilePic": "src/assets/rajini.jpg"
+        "userProfilePic": "assets/rajini.jpg"
       },
-      "postImage": "src/assets/rajini.jpg",
+      "postImage": "assets/rajini.jpg",
       "caption": "Super-Star⭐Thalaivar",
       "likes": "30M",
       "comments": [
@@ -181,9 +181,9 @@
       "user": {
         "id": 107,
         "username": "gv_prakash",
-        "userProfilePic": "src/assets/gvprakash.jpeg"
+        "userProfilePic": "assets/gvprakash.jpeg"
       },
-      "postImage": "src/assets/gvprakash.jpeg",
+      "postImage": "assets/gvprakash.jpeg",
       "caption": "Heyy Minnalehh💙",
       "likes": "500k",
       "comments": [
@@ -203,9 +203,9 @@
       "user": {
         "id": 108,
         "username": "arun_vijay",
-        "userProfilePic": "src/assets/arunvijay.jpeg"
+        "userProfilePic": "assets/arunvijay.jpeg"
       },
-      "postImage": "src/assets/arunvijay.jpeg",
+      "postImage": "assets/arunvijay.jpeg",
       "caption": "vittal⚡",
       "likes": "30k",
       "comments": [
@@ -224,38 +224,38 @@
   "Profile": {
     "id": 101,
     "username": "mathan_sk",
-    "userProfilePic": "src/assets/mathan.jpg"
+    "userProfilePic": "assets/mathan.jpg"
   },
   "suggestion": [
     {
       "id": "101",
       "username": "silambarasan",
-      "userProfilePic": "src/assets/simbu.jpeg"
+      "userProfilePic": "assets/simbu.jpeg"
     },
     {
       "id": "102",
       "username": "sivakarthikeyan",
-      "userProfilePic": "src/assets/sk.jpeg"
+      "userProfilePic": "assets/sk.jpeg"
     },
     {
       "id": "103",
       "username": "actor_jai",
-      "userProfilePic": "src/assets/jai.jpeg"
+      "userProfilePic": "assets/jai.jpeg"
     },
     {
       "id": "104",
       "username": "Samantha",
-      "userProfilePic": "src/assets/sam.jpg"
+      "userProfilePic": "assets/sam.jpg"
     },
     {
       "id": "105",
       "username": "Kashmira",
-      "userProfilePic": "src/assets/kashmira.jpeg"
+      "userProfilePic": "assets/kashmira.jpeg"
     },
     {
       "id": "106",
       "username": "vishal",
-      "userProfilePic": "src/assets/vishal.jpeg"
+      "userProfilePic": "assets/vishal.jpeg"
     }
   ],
   "Story": [
@@ -264,45 +264,45 @@
       "user": {
         "id": 101,
         "username": "actor_suriya",
-        "userProfilePic": "src/assets/suriya2.jpg"
+        "userProfilePic": "assets/suriya2.jpg"
       },
-      "postImage": "/src/assets/karuppu.avif"
+      "postImage": "/assets/karuppu.avif"
     },
     {
       "id": "2",
       "user": {
         "id": 102,
         "username": "actor_vijay",
-        "userProfilePic": "src/assets/vijay.jpeg"
+        "userProfilePic": "assets/vijay.jpeg"
       },
-      "postImage": "/src/assets/vijaystory.jpg"
+      "postImage": "/assets/vijaystory.jpg"
     },
     {
       "id": "3",
       "user": {
         "id": 103,
         "username": "ajith_kumar",
-        "userProfilePic": "src/assets/akstill.jpg"
+        "userProfilePic": "assets/akstill.jpg"
       },
-      "postImage": "/src/assets/akposter.jpg"
+      "postImage": "/assets/akposter.jpg"
     },
     {
       "id": "4",
       "user": {
         "id": 104,
         "username": "dhanush",
-        "userProfilePic": "src/assets/dhanush.webp"
+        "userProfilePic": "assets/dhanush.webp"
       },
-      "postImage": "/src/assets/maari.jpg"
+      "postImage": "/assets/maari.jpg"
     },
     {
       "id": "5",
       "user": {
         "id": 105,
         "username": "anirudh",
-        "userProfilePic": "src/assets/anirudh.jpeg"
+        "userProfilePic": "assets/anirudh.jpeg"
       },
-      "postImage": "/src/assets/anistry.jpg"
+      "postImage": "/assets/anistry.jpg"
     }
   ],
   "followers": [
